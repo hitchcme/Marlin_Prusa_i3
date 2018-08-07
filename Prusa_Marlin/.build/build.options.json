@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "/Applications/Arduino 1.8.1.app/Contents/Java/libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.arduinoOTA.path=/Users/hitchcme/Library/Arduino15/packages/arduino/tools/arduinoOTA/1.1.1,runtime.tools.avrdude.path=/Users/hitchcme/Library/Arduino15/packages/arduino/tools/avrdude/6.3.0-arduino9,runtime.tools.avr-gcc.path=/Users/hitchcme/Library/Arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "/Applications/Arduino 1.8.1.app/Contents/Java/hardware,/Users/hitchcme/Library/Arduino15/packages,/Users/hitchcme/Projects/Arduino/Sketchbook/hardware",
+  "otherLibrariesFolders": "/Users/hitchcme/Projects/Arduino/Sketchbook/libraries",
+  "runtime.ide.version": "10801",
+  "sketchLocation": "/Users/hitchcme/Projects/Marlin/Prusa_i3/Prusa_Marlin/Prusa_Marlin.ino",
+  "toolsFolders": "/Applications/Arduino 1.8.1.app/Contents/Java/tools-builder,/Applications/Arduino 1.8.1.app/Contents/Java/hardware/tools/avr,/Users/hitchcme/Library/Arduino15/packages"
+}
