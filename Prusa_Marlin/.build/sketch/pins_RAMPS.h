@@ -455,10 +455,10 @@
       #define BEEPER_PIN        23
       #define LCD_BACKLIGHT_PIN 33
 
-      #define BTN_EN1           35
-      #define BTN_EN2           37
+      #define BTN_EN1           37
+      #define BTN_EN2           35
       #define BTN_ENC           31
-
+           
       #define LCD_SDSS          53
       #define SD_DETECT_PIN     49
       #define KILL_PIN          41

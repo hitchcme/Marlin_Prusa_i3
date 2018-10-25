@@ -213,7 +213,7 @@
 // The offset has to be X=0, Y=0 for the extruder 0 hotend (default extruder).
 // For the other hotends it is their distance from the extruder 0 hotend.
 #define HOTEND_OFFSET_X {0.0, 30.5200} // (in mm) for each extruder, offset of the hotend on the X axis
-#define HOTEND_OFFSET_Y {0.0, -0.8638}  // (in mm) for each extruder, offset of the hotend on the Y axis
+#define HOTEND_OFFSET_Y {0.0, 0.0000}  // (in mm) for each extruder, offset of the hotend on the Y axis
 
 // @section machine
 
@@ -1393,7 +1393,7 @@
 //
 //  Set this option if CLOCKWISE causes values to DECREASE
 //
-//#define REVERSE_ENCODER_DIRECTION
+#define REVERSE_ENCODER_DIRECTION
 
 //
 // This option reverses the encoder direction for navigating LCD menus.
