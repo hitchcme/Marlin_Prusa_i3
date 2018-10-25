@@ -1,3 +1,7 @@
+Modified for Prusa running MKS Gen V1.4
+Supports Firmware Retraction. Dont stack G10s
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
